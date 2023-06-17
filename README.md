@@ -3,7 +3,8 @@
 <h3 align="center">React Redux with Users</h3>
 
   <p align="center">
-    A project using React Redux with a API users info for learning Redux Toolkit, following tutorial by monkeywit https://www.youtube.com/watch?v=c0MpQeOKc-4
+    A project using React Redux with a API users info for learning Redux Toolkit, following tutorial by @monkeywit ( https://www.youtube.com/watch?v=c0MpQeOKc-4 )
+      <br />
     Styled using Tailwind instead of Bootstrap.
     <br />
   </p>
@@ -13,11 +14,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+    <li><a href="#built-with">Built With</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -39,8 +36,6 @@ Distributed under the MIT License.
 ## Acknowledgments
 
 -  [@monkeywit](https://www.youtube.com/watch?v=c0MpQeOKc-4)
--  []()
--  []()
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
